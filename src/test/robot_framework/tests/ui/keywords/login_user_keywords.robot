@@ -1,10 +1,10 @@
 *** Settings ***
-Resource        ../resource/common.robot
-Resource        ../resource/page_object.robot
+Resource        common_keywords.robot
+Resource        login_user_page_objects.robot
 
 *** Variables ***
-${LOGIN_URL}    ${C_ROOT_URL}/login
-${HOME_URL}     ${C_ROOT_URL}/home
+${LOGIN_URL}    ${C_ROOT_URL}/bank/login
+${HOME_URL}     ${C_ROOT_URL}/bank/home
 ${TITLE}        Digital Bank
 
 

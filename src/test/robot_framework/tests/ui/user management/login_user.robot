@@ -1,5 +1,5 @@
 *** Settings ***
-Resource        ../resource/keywords_login_user.robot
+Resource        ../keywords/login_user_keywords.robot
 
 *** Test Cases ***
 Login user with valid username, invalid password
