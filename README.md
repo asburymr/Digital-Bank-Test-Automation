@@ -1,6 +1,6 @@
 # Digital Bank Test Automation Framework Examples
 
-This repository contains example test automation framework examples for the Digital Bank and Digital Credit applications.
+This repository contains test automation framework examples for the Digital Bank and Digital Credit applications.
 
 ## Getting Started
 
